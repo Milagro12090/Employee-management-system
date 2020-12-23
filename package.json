@@ -1,0 +1,30 @@
+{
+  "name": "employee_management_system",
+  "version": "1.0.0",
+  "description": "Application that allows an employer to edit their employee database",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "as-table": "^1.0.55",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.18.1",
+    "node": "^13.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlovejo2/Employee_Management_System.git"
+  },
+  "author": "James Lovejoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlovejo2/Employee_Management_System/issues"
+  },
+  "homepage": "https://github.com/jlovejo2/Employee_Management_System#readme"
+}

@@ -20,6 +20,6 @@ This is licensed with No License
   ## My Contact Info
   Milagro12090
   rileytcostello@gmail.com
-  ##link to demo and visual
+  ## Link to demo and visual
   
   https://www.youtube.com/watch?v=rQ2gUMFZM-Y
